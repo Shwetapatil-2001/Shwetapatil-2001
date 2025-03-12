@@ -1,4 +1,4 @@
-# 🚀 Hii I am Shweta Patil 
+# Hi, I'm Shweta Patil 
 ---
 
 ### 🖥️ **Frontend**  
