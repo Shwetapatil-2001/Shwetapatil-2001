@@ -2,9 +2,9 @@
 
 # Hi there, I'm Shweta!
 
-**Detail-oriented and results-driven MCA graduate with a strong foundation in software development, database
+** I am a Detail-oriented and results-driven MCA graduate with a strong foundation in software development, database
 management, and web technologies. Proficient in Java, front-end technologies, and MySQL, with hands-on
-experience in creating dynamic web applications.**
+experience in creating dynamic web applications. **
 
 
 ---
