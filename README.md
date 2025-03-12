@@ -4,7 +4,6 @@
 ## Welcome to my GitHub Profile!
 ---
 
-![Coding GIF](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
 
 ### 🖥️ **Frontend**  
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
