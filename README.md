@@ -31,8 +31,7 @@
 ### ⚙️ **Backend:**  
 🔹 Java (JDK 17+)  
 🔹 Hibernate ORM  
-🔹 JDBC, Servlets
-🔹Spring Boot
+🔹 JDBC, Servlets, Spring Boot
 
 ### 🗄️ **Database:**  
 🔹 MySQL, MongoDB  
