@@ -66,4 +66,4 @@
 
 ### 📫 Connect with me
 
-[LinkedIn](https://www.linkedin.com/in/shweta-patil-90b8841b2/) | [Email](mailto:shwetapatil4558@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/shweta-patil-90b8841b2/) | [Email](shwetapatil4558@gmail.com)
