@@ -1,9 +1,7 @@
 ![Cover Image](https://github.com/Shwetapatil-2001/Shwetapatil-2001/blob/main/cover-page.jpg).
 
-#                           Hi, I'm Shweta Patil 
-
-##                     A Passionate Full Stack Developer
-
+# Hi there, I'm Shweta! 👋
+## Welcome to my GitHub Profile!
 ---
 
 ### 🖥️ **Frontend**  
