@@ -1,5 +1,4 @@
 # 🚀 Shweta Patil 
-C:\Users\shwet\OneDrive\Desktop\cover-page.jpg
 ---
 
 ### 🖥️ **Frontend**  
