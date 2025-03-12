@@ -42,10 +42,9 @@
 
 ## 🔥 Features  
 
-✅ **Enterprise-Level Java Web Apps**  
-✅ **Efficient ORM with Hibernate**  
-✅ **Secure API Development with Spring**  
-✅ **Dynamic UI with ReactJS**  
+✅ **Full Stack Java Developer**  
+✅ **MCA Graduate (KLE Dr. M.S. Sheshgiri College Belagavi)**  
+✅ **Passionate about Web & Software Development**    
 ✅ **Optimized SQL Queries for High Performance**  
 
 ---
@@ -66,3 +65,7 @@
 
 ![Coding GIF](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
 
+
+### 📫 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/shweta-patil-90b8841b2/) | [Email](mailto:shwetapatil4558@gmail.com)
