@@ -32,7 +32,7 @@
 🔹 Java (JDK 17+)  
 🔹 Hibernate ORM  
 🔹 JDBC, Servlets
-🔹 Spring Boot
+🔹Spring Boot
 
 ### 🗄️ **Database:**  
 🔹 MySQL, MongoDB  
