@@ -1,6 +1,6 @@
 ![Cover Image](https://github.com/Shwetapatil-2001/Shwetapatil-2001/blob/main/cover-page.jpg).
 
-# Hi there, I'm Shweta! 👋
+# Hi there, I'm Shweta!
 ## Welcome to my GitHub Profile!
 ---
 
