@@ -1,6 +1,6 @@
-# Hi, I'm Shweta Patil 
+#                           Hi, I'm Shweta Patil 
 
-## A Passionate Full Stack Developer
+##                     A Passionate Full Stack Developer
 
 ---
 
