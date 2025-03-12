@@ -1,3 +1,5 @@
+![Cover Image](https://github.com/Shwetapatil-2001/Shwetapatil-2001/blob/main/cover-image.jpg)
+
 #                           Hi, I'm Shweta Patil 
 
 ##                     A Passionate Full Stack Developer
