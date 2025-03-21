@@ -1,10 +1,9 @@
 ![Cover Image](https://github.com/Shwetapatil-2001/Shwetapatil-2001/blob/main/cover-page.jpg).
 
-# Hi there, I'm Shweta!
+# Hello, world! I’m Shweta
 
-**I am a Detail-oriented and results-driven MCA graduate with a strong foundation in software development, database
-management, and web technologies. Proficient in Java, front-end technologies, and MySQL, with hands-on
-experience in creating dynamic web applications.**
+**🚀 Welcome to My GitHub!
+Here, you’ll find projects related to Java-based applications, web development, and database management. My repositories showcase projects in web development, dynamic applications, and problem-solving challenges. Feel free to explore, fork, or contribute!**
 
 
 ---
