@@ -63,9 +63,6 @@ Here, you’ll find projects related to Java-based applications, web development
 
 ---
 
----
-
-
 ### 📫 Connect with me
 
 LinkedIn: https://www.linkedin.com/in/shweta-patil-90b8841b2/ | Email: shwetapatil4558@gmail.com
