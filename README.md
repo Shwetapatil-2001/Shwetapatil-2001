@@ -65,8 +65,6 @@ Here, you’ll find projects related to Java-based applications, web development
 
 ---
 
-![Coding GIF](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
-
 
 ### 📫 Connect with me
 
