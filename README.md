@@ -1,6 +1,6 @@
 ![Cover Image](https://github.com/Shwetapatil-2001/Shwetapatil-2001/blob/main/cover-page.jpg).
 
-# Hello, world! I’m Shweta
+# Hello, I’m Shweta
 
 **🚀 Welcome to My GitHub!
 Here, you’ll find projects related to Java-based applications, web development, and database management. My repositories showcase projects in web development, dynamic applications, and problem-solving challenges. Feel free to explore, fork, or contribute!**
